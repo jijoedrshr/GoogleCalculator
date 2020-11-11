@@ -1,0 +1,9 @@
+D:\Ebay Xamarin\EbayXamarinTest\EbayXamarinTest\bin\Debug\EbayXamarinTest.dll
+D:\Ebay Xamarin\EbayXamarinTest\EbayXamarinTest\bin\Debug\EbayXamarinTest.pdb
+D:\Ebay Xamarin\EbayXamarinTest\EbayXamarinTest\bin\Debug\nunit.framework.dll
+D:\Ebay Xamarin\EbayXamarinTest\EbayXamarinTest\bin\Debug\Xamarin.UITest.dll
+D:\Ebay Xamarin\EbayXamarinTest\EbayXamarinTest\obj\Debug\EbayXamarinTest.csproj.CoreCompileInputs.cache
+D:\Ebay Xamarin\EbayXamarinTest\EbayXamarinTest\obj\Debug\EbayXamarinTest.csproj.CopyComplete
+D:\Ebay Xamarin\EbayXamarinTest\EbayXamarinTest\obj\Debug\EbayXamarinTest.dll
+D:\Ebay Xamarin\EbayXamarinTest\EbayXamarinTest\obj\Debug\EbayXamarinTest.pdb
+D:\Ebay Xamarin\EbayXamarinTest\EbayXamarinTest\obj\Debug\EbayXamarinTest.csprojAssemblyReference.cache
