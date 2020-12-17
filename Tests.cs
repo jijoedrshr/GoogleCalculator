@@ -14,6 +14,10 @@ namespace EbayXamarinTest
         IApp app;
         Platform platform;
 
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="platform"></param>
         public Tests(Platform platform)
         {
             this.platform = platform;
