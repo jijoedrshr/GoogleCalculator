@@ -12,8 +12,11 @@
   <PropertyGroup>
     <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
   </PropertyGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)xamarin.uitest\3.0.11\build\Xamarin.UITest.props" Condition="Exists('$(NuGetPackageRoot)xamarin.uitest\3.0.11\build\Xamarin.UITest.props')" />
+  </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <PkgXamarin_UITest Condition=" '$(PkgXamarin_UITest)' == '' ">C:\Microsoft\Xamarin\NuGet\xamarin.uitest\2.2.7</PkgXamarin_UITest>
+    <PkgXamarin_UITest Condition=" '$(PkgXamarin_UITest)' == '' ">C:\Users\jijo.mathew\.nuget\packages\xamarin.uitest\3.0.11</PkgXamarin_UITest>
     <PkgNUnitTestAdapter Condition=" '$(PkgNUnitTestAdapter)' == '' ">C:\Microsoft\Xamarin\NuGet\nunittestadapter\2.1.1</PkgNUnitTestAdapter>
   </PropertyGroup>
 </Project>

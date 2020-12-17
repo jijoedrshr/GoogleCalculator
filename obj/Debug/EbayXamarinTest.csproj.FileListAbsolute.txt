@@ -1,3 +1,4 @@
+D:\Ebay Xamarin\EbayXamarinTest\EbayXamarinTest\bin\Debug\test-cloud.exe
 D:\Ebay Xamarin\EbayXamarinTest\EbayXamarinTest\bin\Debug\EbayXamarinTest.dll
 D:\Ebay Xamarin\EbayXamarinTest\EbayXamarinTest\bin\Debug\EbayXamarinTest.pdb
 D:\Ebay Xamarin\EbayXamarinTest\EbayXamarinTest\bin\Debug\nunit.framework.dll
@@ -6,4 +7,13 @@ D:\Ebay Xamarin\EbayXamarinTest\EbayXamarinTest\obj\Debug\EbayXamarinTest.csproj
 D:\Ebay Xamarin\EbayXamarinTest\EbayXamarinTest\obj\Debug\EbayXamarinTest.csproj.CopyComplete
 D:\Ebay Xamarin\EbayXamarinTest\EbayXamarinTest\obj\Debug\EbayXamarinTest.dll
 D:\Ebay Xamarin\EbayXamarinTest\EbayXamarinTest\obj\Debug\EbayXamarinTest.pdb
-D:\Ebay Xamarin\EbayXamarinTest\EbayXamarinTest\obj\Debug\EbayXamarinTest.csprojAssemblyReference.cache
+C:\Users\jijo.mathew\source\repos\DemoTaskyProj\EbayXamarinTest\EbayXamarinTest\bin\Debug\test-cloud.exe
+C:\Users\jijo.mathew\source\repos\DemoTaskyProj\EbayXamarinTest\EbayXamarinTest\bin\Debug\EbayXamarinTest.dll
+C:\Users\jijo.mathew\source\repos\DemoTaskyProj\EbayXamarinTest\EbayXamarinTest\bin\Debug\EbayXamarinTest.pdb
+C:\Users\jijo.mathew\source\repos\DemoTaskyProj\EbayXamarinTest\EbayXamarinTest\bin\Debug\nunit.framework.dll
+C:\Users\jijo.mathew\source\repos\DemoTaskyProj\EbayXamarinTest\EbayXamarinTest\bin\Debug\Xamarin.UITest.dll
+C:\Users\jijo.mathew\source\repos\DemoTaskyProj\EbayXamarinTest\EbayXamarinTest\obj\Debug\EbayXamarinTest.csprojAssemblyReference.cache
+C:\Users\jijo.mathew\source\repos\DemoTaskyProj\EbayXamarinTest\EbayXamarinTest\obj\Debug\EbayXamarinTest.csproj.CoreCompileInputs.cache
+C:\Users\jijo.mathew\source\repos\DemoTaskyProj\EbayXamarinTest\EbayXamarinTest\obj\Debug\EbayXamarinTest.csproj.CopyComplete
+C:\Users\jijo.mathew\source\repos\DemoTaskyProj\EbayXamarinTest\EbayXamarinTest\obj\Debug\EbayXamarinTest.dll
+C:\Users\jijo.mathew\source\repos\DemoTaskyProj\EbayXamarinTest\EbayXamarinTest\obj\Debug\EbayXamarinTest.pdb

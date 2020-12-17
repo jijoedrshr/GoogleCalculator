@@ -13,8 +13,10 @@ namespace EbayXamarinTest
                 return ConfigureApp
                .Android
                //.InstalledApp("com.google.android.calculator")
-                //.LaunchableActivity("com.android.calculator2.activities.MainActivity")
-                .ApkFile(@"D:\EbayAPK\Calculator 7.8 (271241277).apk")
+               //.LaunchableActivity("com.android.calculator2.activities.MainActivity")
+               // .ApkFile(@"D:\EbayAPK\Calculator 7.8 (271241277).apk")
+               .ApkFile(@"D:\EbayAPK\TaskyDroid.apk")
+                
                 .StartApp();
             }
 

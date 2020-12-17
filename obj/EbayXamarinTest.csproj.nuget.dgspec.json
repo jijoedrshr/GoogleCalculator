@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Ebay Xamarin\\EbayXamarinTest\\EbayXamarinTest\\EbayXamarinTest.csproj": {}
+    "C:\\Users\\jijo.mathew\\source\\repos\\DemoTaskyProj\\EbayXamarinTest\\EbayXamarinTest\\EbayXamarinTest.csproj": {}
   },
   "projects": {
-    "D:\\Ebay Xamarin\\EbayXamarinTest\\EbayXamarinTest\\EbayXamarinTest.csproj": {
+    "C:\\Users\\jijo.mathew\\source\\repos\\DemoTaskyProj\\EbayXamarinTest\\EbayXamarinTest\\EbayXamarinTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ebay Xamarin\\EbayXamarinTest\\EbayXamarinTest\\EbayXamarinTest.csproj",
+        "projectUniqueName": "C:\\Users\\jijo.mathew\\source\\repos\\DemoTaskyProj\\EbayXamarinTest\\EbayXamarinTest\\EbayXamarinTest.csproj",
         "projectName": "EbayXamarinTest",
-        "projectPath": "D:\\Ebay Xamarin\\EbayXamarinTest\\EbayXamarinTest\\EbayXamarinTest.csproj",
+        "projectPath": "C:\\Users\\jijo.mathew\\source\\repos\\DemoTaskyProj\\EbayXamarinTest\\EbayXamarinTest\\EbayXamarinTest.csproj",
         "packagesPath": "C:\\Users\\jijo.mathew\\.nuget\\packages\\",
-        "outputPath": "D:\\Ebay Xamarin\\EbayXamarinTest\\EbayXamarinTest\\obj\\",
+        "outputPath": "C:\\Users\\jijo.mathew\\source\\repos\\DemoTaskyProj\\EbayXamarinTest\\EbayXamarinTest\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -48,7 +48,7 @@
             },
             "Xamarin.UITest": {
               "target": "Package",
-              "version": "[2.2.7, )"
+              "version": "[3.0.11, )"
             }
           }
         }

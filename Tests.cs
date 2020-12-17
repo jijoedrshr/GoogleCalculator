@@ -26,23 +26,30 @@ namespace EbayXamarinTest
         }
 
         [Test]
+        [Category ("testone")]
         public void Test1_AdditionTest()
         {
             //AppResult[] results = app.WaitForElement(c => c.Marked("Welcome to Xamarin.Forms!"));
-            // app.Screenshot("Welcome screen.");
+            //app.Screenshot("Welcome screen.");
+            
+            app.Tap(x => x.Marked("menu_add_task"));
+            app.EnterText(x => x.Marked("txtName"), "testjijo");
+            app.Tap(x => x.Marked("menu_save_task"));
+            app.WaitForElement("testjijo");
+            app.Screenshot("Final Screen.");
             // app.Repl();
-            app.WaitForElement(c => c.Id("digit_7"));
-            app.Tap(c => c.Id("digit_7"));
+            /* app.WaitForElement(c => c.Id("digit_7"));
+             app.Tap(c => c.Id("digit_7"));
 
-            app.WaitForElement(c => c.Id("op_add"));
-            app.Tap(c => c.Id("op_add"));
+             app.WaitForElement(c => c.Id("op_add"));
+             app.Tap(c => c.Id("op_add"));
 
-            app.WaitForElement(c => c.Id("digit_8"));
-            app.Tap(c => c.Id("digit_8"));
+             app.WaitForElement(c => c.Id("digit_8"));
+             app.Tap(c => c.Id("digit_8"));
 
-            //int AddVal = Convert.ToInt32(c => c.Id("result_preview"));
-           Object txtResult = app.Query(x => x.Id("result_preview").Invoke("getText"));
-            Assert.AreEqual(((object[])txtResult)[0], "15");
+             //int AddVal = Convert.ToInt32(c => c.Id("result_preview"));
+            Object txtResult = app.Query(x => x.Id("result_preview").Invoke("getText"));
+             Assert.AreEqual(((object[])txtResult)[0], "15"); */
         }
 
         [Test]

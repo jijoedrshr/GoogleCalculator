@@ -14,13 +14,16 @@
       "NUnitTestAdapter/2.1.1": {
         "type": "package"
       },
-      "Xamarin.UITest/2.2.7": {
+      "Xamarin.UITest/3.0.11": {
         "type": "package",
         "compile": {
           "lib/net45/Xamarin.UITest.dll": {}
         },
         "runtime": {
           "lib/net45/Xamarin.UITest.dll": {}
+        },
+        "build": {
+          "build/Xamarin.UITest.props": {}
         }
       }
     },
@@ -37,13 +40,16 @@
       "NUnitTestAdapter/2.1.1": {
         "type": "package"
       },
-      "Xamarin.UITest/2.2.7": {
+      "Xamarin.UITest/3.0.11": {
         "type": "package",
         "compile": {
           "lib/net45/Xamarin.UITest.dll": {}
         },
         "runtime": {
           "lib/net45/Xamarin.UITest.dll": {}
+        },
+        "build": {
+          "build/Xamarin.UITest.props": {}
         }
       }
     },
@@ -60,13 +66,16 @@
       "NUnitTestAdapter/2.1.1": {
         "type": "package"
       },
-      "Xamarin.UITest/2.2.7": {
+      "Xamarin.UITest/3.0.11": {
         "type": "package",
         "compile": {
           "lib/net45/Xamarin.UITest.dll": {}
         },
         "runtime": {
           "lib/net45/Xamarin.UITest.dll": {}
+        },
+        "build": {
+          "build/Xamarin.UITest.props": {}
         }
       }
     },
@@ -83,13 +92,16 @@
       "NUnitTestAdapter/2.1.1": {
         "type": "package"
       },
-      "Xamarin.UITest/2.2.7": {
+      "Xamarin.UITest/3.0.11": {
         "type": "package",
         "compile": {
           "lib/net45/Xamarin.UITest.dll": {}
         },
         "runtime": {
           "lib/net45/Xamarin.UITest.dll": {}
+        },
+        "build": {
+          "build/Xamarin.UITest.props": {}
         }
       }
     }
@@ -130,23 +142,23 @@
         "tools/nunit.util.dll"
       ]
     },
-    "Xamarin.UITest/2.2.7": {
-      "sha512": "KqyCuJZD1+IL+hUu8gce87pYLK3AFPs3sHeLzxyqf7/q95y1gKXmVbXtZJwt9IgVB1WOSvlqaSKLb9EOsWZnZw==",
+    "Xamarin.UITest/3.0.11": {
+      "sha512": "RPMHkDvALZxh60hPXzJkeAn6R3F+w+slS9m+ZPnax5MS5XFohronz7U1TyWUTRHPa//ykf11vczUtbisjyb/OQ==",
       "type": "package",
-      "path": "xamarin.uitest/2.2.7",
+      "path": "xamarin.uitest/3.0.11",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
+        "LICENSE.md",
         "ThirdPartyNotices.txt",
-        "Xamarin.UITest-License.rtf",
+        "build/Xamarin.UITest.props",
         "lib/net45/Xamarin.UITest.dll",
         "lib/net45/Xamarin.UITest.xml",
         "lib/portable-net45+win8+wp8/Xamarin.UITest.dll",
         "lib/portable-net45+win8+wp8/Xamarin.UITest.xml",
-        "lib/tools/test-cloud.exe",
         "tools/test-cloud.exe",
-        "xamarin.uitest.2.2.7.nupkg.sha512",
+        "xamarin.uitest.3.0.11.nupkg.sha512",
         "xamarin.uitest.nuspec"
       ]
     }
@@ -155,7 +167,7 @@
     ".NETFramework,Version=v4.6.1": [
       "NUnit >= 2.6.4",
       "NUnitTestAdapter >= 2.1.1",
-      "Xamarin.UITest >= 2.2.7"
+      "Xamarin.UITest >= 3.0.11"
     ]
   },
   "packageFolders": {
@@ -165,11 +177,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Ebay Xamarin\\EbayXamarinTest\\EbayXamarinTest\\EbayXamarinTest.csproj",
+      "projectUniqueName": "C:\\Users\\jijo.mathew\\source\\repos\\DemoTaskyProj\\EbayXamarinTest\\EbayXamarinTest\\EbayXamarinTest.csproj",
       "projectName": "EbayXamarinTest",
-      "projectPath": "D:\\Ebay Xamarin\\EbayXamarinTest\\EbayXamarinTest\\EbayXamarinTest.csproj",
+      "projectPath": "C:\\Users\\jijo.mathew\\source\\repos\\DemoTaskyProj\\EbayXamarinTest\\EbayXamarinTest\\EbayXamarinTest.csproj",
       "packagesPath": "C:\\Users\\jijo.mathew\\.nuget\\packages\\",
-      "outputPath": "D:\\Ebay Xamarin\\EbayXamarinTest\\EbayXamarinTest\\obj\\",
+      "outputPath": "C:\\Users\\jijo.mathew\\source\\repos\\DemoTaskyProj\\EbayXamarinTest\\EbayXamarinTest\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -206,7 +218,7 @@
           },
           "Xamarin.UITest": {
             "target": "Package",
-            "version": "[2.2.7, )"
+            "version": "[3.0.11, )"
           }
         }
       }
